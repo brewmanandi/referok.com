@@ -3,6 +3,7 @@ hero:
   heading: Accelerate your newsletter growth with referrals.
   maxWidthPX: "652"
 seo:
-  image: "/images/hero-2.jpg"
+  image: ''
 
 ---
+asdfasdfsadf
