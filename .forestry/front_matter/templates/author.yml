@@ -44,6 +44,3 @@ fields:
   type: boolean
   label: Featured Author
   description: Feature this author on the home page
-pages:
-- content/authors/andi-copy.md
-- content/authors/andreas-braumann.md
