@@ -1,7 +1,7 @@
 ---
 title: Andreas Braumann
 bio: I build stuff
-avatar: "/images/andreas-1.png"
+avatar: "/images/img-20210604-wa0008.jpeg"
 social:
 - title: Twitter
   url: https://twitter.com/brewrocks
