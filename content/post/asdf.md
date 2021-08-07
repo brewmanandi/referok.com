@@ -2,7 +2,7 @@
 timeToRead: 3
 authors:
 - Andi
-title: Growing your e-mail list ist hard? Not anymore!
+title: Growing your e-mail list is hard? Not anymore!
 excerpt: Learn how to get more subscribers with referok
 date: 2021-08-07T00:00:00+02:00
 hero: "/images/nubelson-fernandes-yh2y8avvpec-unsplash.jpg"
