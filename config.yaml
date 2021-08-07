@@ -1,7 +1,7 @@
 ---
-baseURL: https://example.com
+baseURL: https://referok.com
 languageCode: en-us
-title: Hugo Novela
+title: referok.com
 pygmentsstyle: monokai
 metaDataFormat: yaml
 module:
