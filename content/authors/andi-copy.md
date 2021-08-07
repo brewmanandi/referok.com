@@ -6,6 +6,5 @@ social:
 - title: Twitter
   url: https://twitter.com/brewrocks
 featured: true
-draft: true
 
 ---
