@@ -6,4 +6,3 @@ seo:
   image: ''
 
 ---
-asdfasdfsadf
