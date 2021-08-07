@@ -8,6 +8,12 @@ fields:
     required: false
   label: Heading
   description: The text displayed in the hero
+- name: sub_heading
+  type: text
+  config:
+    required: false
+  label: Sub Heading
+  description: Smaller heading
 - name: maxWidthPX
   type: number
   label: Max Width
